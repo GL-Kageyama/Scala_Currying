@@ -38,7 +38,7 @@ object Currying extends App {
 
     // Partial application can be reused
     val resMulti3 = dMulti(10)
-    println(resMulti3)
+    println(resMulti3) // 240
 }
 
 
